@@ -30,3 +30,8 @@ main {
 main:has(.back-link) {
   text-align: center;
 }
+
+.section {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
